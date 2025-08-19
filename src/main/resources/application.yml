@@ -9,5 +9,7 @@ langchain4j:
     dashscope:
       chat-model:
         model-name: qwen-max
-        api-key:
-
+        api-key: sk-30cf5b0ec6324724b9723062a035be1f
+      embedding-model:
+       model-name: text-embedding-v4
+       api-key: sk-30cf5b0ec6324724b9723062a035be1f
