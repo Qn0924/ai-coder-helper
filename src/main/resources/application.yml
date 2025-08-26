@@ -4,14 +4,3 @@ spring:
   profiles:
     active: local
 
-langchain4j:
-  community:
-    dashscope:
-      chat-model:
-        model-name: qwen-max
-        api-key: sk-30cf5b0ec6324724b9723062a035be1f
-      embedding-model:
-       model-name: text-embedding-v4
-       api-key: sk-30cf5b0ec6324724b9723062a035be1f
-bigmodel:
-  api-key: f632831d7b7c42f8b34feaec83460899.STs06GWpEA3rQIQY
